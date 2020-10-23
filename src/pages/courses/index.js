@@ -1,3 +1,3 @@
-import Courses from './courses';
+import Courses from './coursesContainer';
 
 export default Courses;
